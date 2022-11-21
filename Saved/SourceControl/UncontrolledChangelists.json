@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/dmani/MugenEngine-UE5/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/dmani/MugenEngine-UE5/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset",
+				"C:/Users/dmani/MugenEngine-UE5/Content/Maps/Blitz1.umap",
+				"C:/Users/dmani/MugenEngine-UE5/Content/Characters/Sonic/Blueprints/SonicGameMode.uasset",
+				"C:/Users/dmani/MugenEngine-UE5/Content/Characters/Shadow/Blueprints/ShadowGameMode.uasset"
+			]
+		}
+	]
+}
